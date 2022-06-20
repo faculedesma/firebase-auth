@@ -1,1 +1,1 @@
-Firebase Authentication with React
+Authentication & Authoriztion with React and Firebase.
